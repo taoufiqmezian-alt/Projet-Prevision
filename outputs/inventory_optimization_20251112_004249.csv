@@ -1,0 +1,8 @@
+ID_Produit,Nom_Produit,Prix_Unitaire,Stock_Securite,Point_Commande,EOQ_Optimal,Commandes_An,Intervalle_Jours,Cout_Total_An,Seuil_Min_Actuel,Seuil_Max_Actuel
+P001,SteelBeam GreenSteel,5.0,164,909,1971,19.7,18,1971.81,5000,20000
+P002,EcoPlastic Sheet,3.0,240,1572,3402,20.4,17,2041.75,3000,15000
+P003,BioWood Panel,4.5,171,1405,2674,24.1,15,2406.79,1000,5000
+P004,RecyGlass Bottle,2.5,113,1569,3897,19.5,18,1948.72,5000,25000
+P005,Solar Panel Module,50.0,83,622,530,53.1,6,5305.0,300,2000
+P006,AluFrame Construction,7.0,85,575,1352,18.9,19,1893.15,2000,8000
+P007,Battery Pack Eco,25.0,331,2747,1587,79.4,4,7936.78,500,3000

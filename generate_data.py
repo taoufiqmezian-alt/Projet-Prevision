@@ -10,7 +10,6 @@ import random
 from datetime import datetime, timedelta
 from src.database import Database
 
-
 class DataGenerator:
     def __init__(self, db_path='data/prevision.db'):
         self.db_path = db_path

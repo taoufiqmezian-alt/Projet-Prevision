@@ -1,0 +1,2 @@
+Vehicule,ID_Transport,Type,Points_Livraison,Nombre_Points,Distance_km,Charge_kg
+V3,TR003,Camion électrique,P003 -> P004 -> P006 -> P001 -> P005 -> P002 -> P007,7,300.91,23471
