@@ -257,7 +257,7 @@ def forecast_lstm(df_history: pd.DataFrame, horizon: int) -> pd.DataFrame:
 
 def main():
     st.set_page_config(layout="wide")
-    st.title("Système de Prévision ML/DL - IA Logistique Durable")
+    st.title("Système de Prévision ML/DL -  Logistique Durable")
     st.markdown("---")
 
     # --- Sidebar pour les entrées utilisateur ---
@@ -268,7 +268,6 @@ def main():
         "⏱️ Durée de prévision (en jours) :",
         min_value=1,
         max_value=365,
-        value=30,
         step=1
     )
 
